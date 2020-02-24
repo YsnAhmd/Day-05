@@ -1,0 +1,16 @@
+Python Flow Control
+====================
+Python if....else
+What are if...else statement in Python?
+
+=if test expression:
+ statement(s)
+
+Python if...elif...else Statement
+Syntax of if...elif...else
+
+=if test expression:
+ Body of if
+=elif test expression:
+Body of elif 
+=else Body of else
